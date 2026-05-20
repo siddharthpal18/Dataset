@@ -1,9 +1,0 @@
-customer_id,country,age,gender,membership_tier,registration_date,total_orders,total_spend_usd,avg_order_value_usd,days_since_last_purchase,preferred_category,preferred_device,preferred_payment_method,acquisition_channel,reviews_given,avg_review_score,returns_made,wishlist_items,newsletter_subscribed,churned
-CUST_001,Canada,58,F,Gold,2025-01-27,9,578.59,348.14,269,Electronics,Mobile,PayPal,Direct,6,3.9,2,3,1,1
-CUST_003,Australia,38,M,Gold,2025-11-10,39,3452.74,190.27,350,Sports,Mobile,Credit Card,Google,8,3.6,0,3,1,1
-CUST_005,USA,42,F,Silver,2025-12-28,18,2256.75,284.03,303,Electronics,Mobile,Credit Card,Direct,7,4.5,1,4,1,1
-CUST_011,Canada,30,M,Silver,2025-03-12,4,697.99,296.02,270,Clothing,Mobile,PayPal,Google,11,2.9,1,6,1,1
-CUST_012,Canada,30,F,Gold,2025-07-20,25,2526.37,133.18,214,Home,Tablet,PayPal,Facebook,1,1.5,3,6,0,1
-CUST_013,Australia,43,F,Gold,2025-09-03,14,268.5,486.31,251,Electronics,Mobile,PayPal,Direct,0,3.9,4,3,1,1
-CUST_014,USA,55,F,Silver,2025-05-19,9,4555.67,398.81,189,Sports,Mobile,Credit Card,Facebook,15,4.0,2,6,0,1
-CUST_015,USA,59,F,Silver,2025-07-21,26,1368.02,472.77,295,Clothing,Mobile,PayPal,Google,4,3.2,0,2,0,1
