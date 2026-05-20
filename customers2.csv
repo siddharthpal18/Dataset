@@ -1,0 +1,11 @@
+customer_id,country,age,gender,membership_tier,registration_date,total_orders,total_spend_usd,avg_order_value_usd,days_since_last_purchase,preferred_category,preferred_device,preferred_payment_method,acquisition_channel,reviews_given,avg_review_score,returns_made,wishlist_items,newsletter_subscribed,churned
+C00001,Australia,40.0,Male,Platinum,2019-01-17,4,286.63,63.78,49.0,Food & Grocery,Mobile,Debit Card,Social Media,1.0,4.5,0,12.0,1.0,1.0
+C00002,Canada,20.0,Female,Gold,2026-03-04,11,1245.18,107.32,126.0,Toys & Games,Mobile,Debit Card,Organic Search,2.0,2.6,1,1.0,1.0,0.0
+C00003,Germany,43.0,Female,Silver,2026-02-08,4,195.37,42.74,0.0,Home & Kitchen,Mobile,PayPal,Referral,0.0,4.8,0,0.0,1.0,1.0
+C00004,United Kingdom,41.0,Male,Gold,2025-03-19,6,99.45,15.61,6.0,Electronics,Desktop,PayPal,Organic Search,2.0,4.2,0,8.0,1.0,0.0
+C00005,Japan,37.0,Other,Gold,2024-09-10,36,2593.21,79.09,161.0,Clothing & Apparel,Tablet,Debit Card,Social Media,9.0,4.0,4,5.0,1.0,0.0
+C00006,Singapore,34.0,Male,Silver,2024-04-17,20,1639.15,79.99,4.0,Office Supplies,Tablet,UPI / Digital Wallet,Organic Search,3.0,4.3,2,7.0,1.0,1.0
+C00007,United States,25.0,Male,Gold,2025-09-03,5,200.79,44.67,108.0,Clothing & Apparel,Desktop,UPI / Digital Wallet,Email Campaign,1.0,3.9,0,7.0,1.0,0.0
+C00008,Australia,33.0,Female,Platinum,2025-08-09,32,947.14,33.12,122.0,Sports & Outdoors,Mobile,PayPal,Referral,3.0,4.5,4,0.0,1.0,0.0
+C00009,Germany,47.0,Male,Silver,2026-03-18,49,4320.4,88.62,4.0,Clothing & Apparel,Mobile,Credit Card,Organic Search,16.0,3.9,4,4.0,1.0,1.0
+C00010,France,18.0,Male,Gold,2025-09-16,4,111.38,24.98,82.0,Beauty & Personal Care,Mobile,Credit Card,Social Media,1.0,3.7,0,4.0,1.0,0.0
