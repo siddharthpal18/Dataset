@@ -1,0 +1,11 @@
+customer_id,country,age,gender,membership_tier,registration_date,total_orders,total_spent,avg_order_value,loyalty_points,preferred_category,preferred_device,preferred_payment,acquisition_channel,returns,satisfaction_score,complaints,support_tickets,newsletter_subscribed,churned
+C00001,Australia,40,Male,Platinum,2019-01-17,4,286.63,63.78,49,Food & Grocery,Mobile,Debit Card,Social Media,1,4.5,0,12,true,true
+C00002,Canada,20,Female,Gold,2026-03-04,11,1245.18,107.32,126,Toys & Games,Mobile,Debit Card,Organic Search,2,2.6,1,1,true,false
+C00003,Germany,43,Female,Silver,2026-02-08,4,195.37,42.74,0,Home & Kitchen,Mobile,PayPal,Referral,0,4.8,0,0,false,true
+C00004,United Kingdom,41,Male,Gold,2025-03-19,6,99.45,15.61,6,Electronics,Desktop,PayPal,Organic Search,2,4.2,0,8,true,false
+C00005,Japan,37,Other,Gold,2024-09-10,36,2593.21,79.09,161,Clothing & Apparel,Tablet,Debit Card,Social Media,9,4.0,4,5,false,false
+C00006,Singapore,34,Male,Silver,2024-04-17,20,1639.15,79.99,4,Office Supplies,Tablet,UPI / Digital Wallet,Organic Search,3,4.3,2,7,true,true
+C00007,United States,25,Male,Gold,2025-09-03,5,200.79,44.67,108,Clothing & Apparel,Desktop,UPI / Digital Wallet,Email Campaign,1,3.9,0,7,true,false
+C00008,Australia,33,Female,Platinum,2025-08-09,32,947.14,33.12,122,Sports & Outdoors,Mobile,PayPal,Referral,3,4.5,4,0,true,false
+C00009,Germany,47,Male,Silver,2026-03-18,49,4320.4,88.62,4,Clothing & Apparel,Mobile,Credit Card,Organic Search,16,3.9,4,4,false,true
+C00010,France,18,Male,Gold,2025-09-16,4,111.38,24.98,82,Beauty & Personal Care,Mobile,Credit Card,Social Media,1,3.7,0,4,true,false
